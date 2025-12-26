@@ -4,9 +4,9 @@ I'm [Lukas](https://lukasnetworking.com), a network technician student based in 
 
 I'm currently grasping the basics and understanding of how neworking works. 
 
-I haven't made a lot of profects, but my favorite one is my own [Webbsite](https://github.com/lukas362/Lukas-website/tree/main).
+I haven't made a lot of projects, but my favorite one is my own [Webbsite](https://github.com/lukas362/Lukas-website/tree/main).
 
-You can react me at on here or at my gmail: lukassvensson761@gmail.com
+You can reach at my gmail: lukassvensson761@gmail.com
 
 Fun Facts:
 
