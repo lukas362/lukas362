@@ -1,6 +1,6 @@
 # Hai there!👋
 
-I'm [Lukas](https://lukasnetworking.com), a network technisian student based in Sweden. 
+I'm [Lukas](https://lukasnetworking.com), a network technician student based in Sweden. 
 
 I'm currently grasping the basics and understanding of how neworking works. 
 
