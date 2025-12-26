@@ -1,4 +1,4 @@
-# Hai there!
+# Hai there!👋
 
 I'm [Lukas](https://lukasnetworking.com), a network technisian student based in Sweden. 
 
