@@ -4,9 +4,7 @@ I'm [Lukas](https://lukasnetworking.com), a network technisian student based in 
 
 I'm currently grasping the basics and understanding of how neworking works. 
 
-My main network stack is 
-
-I haven't made a lot of profects, but my favorite one is my own [webbsite](https://github.com/lukas362/Lukas-website/tree/main) I made 
+I haven't made a lot of profects, but my favorite one is my own [Webbsite](https://github.com/lukas362/Lukas-website/tree/main).
 
 You can react me at on here or at my gmail: lukassvensson761@gmail.com
 
