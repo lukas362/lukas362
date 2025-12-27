@@ -12,4 +12,4 @@ Fun Facts:
 
 - I don't like coffe or tea
 - I love cats, but don't have one atm...
-- Hobbies: baking, gym, learing / building new things 
+- Hobbies: baking, gym, learning / building new things 
