@@ -6,7 +6,7 @@ I'm currently grasping the basics and understanding of how neworking works.
 
 I haven't made a lot of projects, but my favorite one is my own [Webbsite](https://github.com/lukas362/Lukas-website/tree/main).
 
-You can reach at my gmail: lukassvensson761@gmail.com
+You can reach me at gmail: lukassvensson761@gmail.com
 
 Fun Facts:
 
