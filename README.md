@@ -2,7 +2,7 @@
 
 I'm [Lukas](https://lukasnetworking.com), a network technician student based in Sweden. 
 
-I'm currently grasping the basics and understanding of how neworking works. 
+I'm currently grasping the basics and understanding of how networking works. 
 
 I haven't made a lot of projects, but my favorite one is my own [Webbsite](https://github.com/lukas362/Lukas-website/tree/main).
 
